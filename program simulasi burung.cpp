@@ -16,9 +16,9 @@ int main() {
     double s;
     double jarak;
 
-    cout << "Masukan s : " ;
+    cout << "Masukkan s : " ;
 	cin >> s;
-	cout << "Masukan v : " ;
+	cout << "Masukkan v : " ;
     cin >> v;
     jarak = sin(2 * s * 3.141 / 180) * 10;
     cout << "Jarak adalah : " ;
