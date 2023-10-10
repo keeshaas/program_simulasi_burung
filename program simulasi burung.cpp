@@ -21,7 +21,7 @@ int main() {
 	cout << "Masukkan v : " ;
     cin >> v;
     jarak = sin(2 * s * 3.141 / 180) * 10;
-    cout << "Jarak adalah : " ;
+    cout << "Jarak terjauh : " ;
     cout << jarak << endl;
     return 0;
 }
